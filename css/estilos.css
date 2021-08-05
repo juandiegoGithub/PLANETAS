@@ -1,0 +1,18 @@
+body
+{ margin: 40px;
+  padding: 10px;
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(https://wallpapercave.com/wp/wp2825715.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+nav
+{
+    padding: 0%;
+    color: aliceblue;
+}
+p
+{color: aliceblue;
+
+}
